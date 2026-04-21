@@ -931,4 +931,12 @@ img {
     .footer-grid {
         grid-template-columns: 1fr;
     }
+
+    .hero-title-lg, .hero-title, .banner-content h2 {
+        font-size: 2.5rem;
+    }
+
+    #btn-fale-conosco {
+        display: none;
+    }
 }
